@@ -1,4 +1,4 @@
-# 🔋  Li-Ion Battery Pack Modeling and Simulation using MATLAB/Simulink for Electric Vehicles
+# 🔋 48V/35Ah-Li-Ion-NMC Li-ion Battery Pack Modeling and Simulation using MATLAB/Simulink for Electric Vehicles
 
 This project models a **48V / 35Ah Lithium-Ion NMC battery pack** using MATLAB/Simulink. The model is based on a **1RC equivalent circuit** and estimates the **State of Charge (SOC)** using the **Coulomb Counting method**, with optional **OCV vs SOC correction** logic. It simulates terminal voltage, transient behavior, and SOC dynamics under various load profiles, making it suitable for electric vehicle (EV) applications.
 
